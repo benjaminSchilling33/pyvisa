@@ -43,7 +43,7 @@ USB interfaces.
 
 Today VISA is implemented on all significant operating systems. A couple
 of vendors offer VISA libraries, partly with free download.  These libraries
-work together with arbitrary peripherical devices, although they may be
+work together with arbitrary peripheral devices, although they may be
 limited to certain interface devices, such as the vendor's GPIB card.
 
 The VISA specification has explicit bindings to Visual Basic, C, and G
